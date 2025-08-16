@@ -4,7 +4,6 @@
 
 This project analyzes the **impact of ad-blocking on digital ad revenue** for a fictional tech company (GYF Inc.) and proposes **data-driven mitigation strategies** to protect revenue and advertiser trust.  
 
----
 
 ## 🔑 Key Highlights
 - Identified **user experience & platform challenges** driving ad-blocking adoption.  
