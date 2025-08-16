@@ -10,12 +10,12 @@ This project analyzes the **impact of ad-blocking on digital ad revenue** for a 
 - Developed **strategic recommendations** to increase ad viewability, engagement, and retention.  
 - Proposed **measurement KPIs** to evaluate effectiveness (CTR, viewability rate, retention, revenue impact).  
 
----
+
 
 ## 📂 Project File
 - [GYF Ad-Blocking Strategy Deck (PDF)](Ad-Blocking-Mitigation-Strategy_GYF_Project.pdf)
 
----
+
 
 ## 🛠️ Skills Demonstrated
 - Business problem framing  
@@ -23,13 +23,10 @@ This project analyzes the **impact of ad-blocking on digital ad revenue** for a 
 - Measurement planning (KPIs)  
 - Presentation & communication skills  
 
----
+
 
 ## 🚀 Next Steps
-This project is part of my **Business Analytics portfolio**. Future projects will focus on:  
-- Sales & customer segmentation analytics  
-- Operational efficiency & cost optimization  
-- Interactive dashboards with Power BI & SQL  
+This project is part of my **Business Analytics portfolio**. 
 
 ---
 
