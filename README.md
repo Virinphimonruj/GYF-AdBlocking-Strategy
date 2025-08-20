@@ -13,7 +13,7 @@ This project analyzes the **impact of ad-blocking on digital ad revenue** for a 
 
 
 ## 📂 Project File
-- [GYF Ad-Blocking Strategy Deck (PDF)](https://github.com/Virinphimonruj/GYF-AdBlocking-Strategy/blob/main/GYF%20Ad-Blocking%20Mitigation%20Strategy-%20Protecting%20Revenue%20%26%20Advertiser%20Trust_GYF_Project.pdf)
+- [📂 GYF Ad-Blocking Strategy Deck (PDF)](GYF-AdBlocking-Strategy.pdf)
 
 
 
